@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExpliciteIntent</string>
+    <string name="Enter_Name">Name</string>
+    <string name="Password">Password</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Login">Login</string>
+</resources>
